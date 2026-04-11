@@ -1,4 +1,4 @@
-<img width="1260" height="334" alt="ReadMeHeaderImage" src="https://github.com/user-attachments/assets/bc806480-ddaf-4823-bbad-48a342cee4c3" />
+![Banner](./banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=flat)
 
