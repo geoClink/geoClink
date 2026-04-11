@@ -1,12 +1,17 @@
-# George Clinkscales
+<img width="1260" height="334" alt="ReadMeHeaderImage" src="https://github.com/user-attachments/assets/bc806480-ddaf-4823-bbad-48a342cee4c3" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=flat)
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### iOS Engineer · Full-Stack Developer · MSU Apple Developer Academy
+
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geoClink&show_icons=true&theme=default&hide_border=true)
 
 I build real apps across mobile, backend, and machine learning.
 Currently completing my final challenge at the Apple Developer 
@@ -77,6 +82,7 @@ trained with XGBoost and converted to CoreML for on-device
 inference. Built with a team of 5 at the Apple Developer 
 Academy.
 
+[iOS](https://github.com/jaidenhenley/MichiganAPIWeather) · 
 [Backend](https://github.com/jaidenhenley/Python-MichiganWaterAPI)
 
 ---
