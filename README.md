@@ -84,8 +84,7 @@ trained with XGBoost and converted to CoreML for on-device
 inference. Built with a team of 5 at the Apple Developer
 Academy.
 
-[![iOS](https://img.shields.io/badge/iOS_App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/MichiganAPIWeather)
-[![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/Python-MichiganWaterAPI)
+[![iOS](https://img.shields.io/badge/View_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/MichiganAPIWeather)
 
 ---
 
