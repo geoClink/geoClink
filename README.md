@@ -1,13 +1,7 @@
 ![Banner](./banner.png)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=flat)
-
----
-
-![Open to Work](https://img.shields.io/badge/Open_to_Work-iOS_Engineer-green?style=for-the-badge)
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=for-the-badge)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-iOS_Engineer-green?style=for-the-badge)](https://linkedin.com/in/george-clinkscales)
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,11 +10,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Core ML](https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
 ### iOS Engineer · Full-Stack Developer · MSU Apple Developer Academy
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=geoClink&hide_border=true)](https://git.io/streak-stats)
 ![geoClink's GitHub activity](https://ghchart.rshah.org/geoClink)
