@@ -151,7 +151,8 @@ Xcode · Git · GitHub Actions · TestFlight · Homebrew · Ollama
 ![100 Days of Swift](https://img.shields.io/badge/100_Days_of_Swift-In_Progress-F54A2A?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Advanced-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-In_Progress-000000?style=flat&logo=anthropic&logoColor=white)
-
+ ![The Odin Project](https://img.shields.io/badge/The_Odin_Project-In_Progress-D24A30?style=flat&logo=theodinproject&logoColor=white)         
+                                         
 ---
 
 ## Connect
