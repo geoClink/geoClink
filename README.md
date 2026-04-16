@@ -110,7 +110,8 @@ joystick normalizes DragGesture input for cross-platform
 support. Game Center leaderboards and achievements. Built with
 a team of 5 at the Apple Developer Academy.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/TakeFlight)
+ [![App Store](https://img.shields.io/badge/Download_on_App_Store-0D96F6?style=for-the-badge&logo=
+  apple&logoColor=white)](https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964)
 
 ---
 
