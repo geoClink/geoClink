@@ -35,6 +35,19 @@ feedback support.
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoClink/Stamped-A-City-Passport)
 
 ---
+### TakeFlight — Bird Survival Game
+> SwiftUI · SpriteKit · SwiftData · Game Center · AVFoundation
+
+5-in-1 survival game set on Belle Isle, Detroit. Custom SwiftUI
+joystick normalizes DragGesture input for cross-platform
+support. Game Center leaderboards and achievements. Built with
+a team of 5 at the Apple Developer Academy.
+
+  [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](
+  https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964)
+  [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/TakeFlight)
+
+  ---
 
 ## Projects
 
@@ -102,25 +115,11 @@ mock data mode for local development.
 
 ---
 
-### TakeFlight — Bird Survival Game
-> SwiftUI · SpriteKit · SwiftData · Game Center · AVFoundation
-
-5-in-1 survival game set on Belle Isle, Detroit. Custom SwiftUI
-joystick normalizes DragGesture input for cross-platform
-support. Game Center leaderboards and achievements. Built with
-a team of 5 at the Apple Developer Academy.
-
-  [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](
-  https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964)
-  [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/TakeFlight)
-
----
-
 ## Tech Stack
 
 **Mobile**
 Swift · SwiftUI · UIKit · SpriteKit · SwiftData · Swift Charts ·
-WidgetKit · Core ML · MapKit · Firebase · Game Center · Combine
+WidgetKit · Core ML · MapKit · Firebase · Game Center · Combine · HTML · CSS · JavaScript
 
 **Backend**
 Python · FastAPI · HTTPX · asyncio · Render
@@ -133,7 +132,7 @@ Tabular Regression · Anthropic Claude API
 XCTest · MVVM · async/await · URLSession
 
 **Tools**
-Xcode · Git · GitHub Actions · TestFlight · Homebrew · Ollama
+Xcode · VS Code · Git · GitHub Actions · TestFlight · Homebrew · Ollama
 
 ---
 
@@ -149,9 +148,8 @@ Xcode · Git · GitHub Actions · TestFlight · Homebrew · Ollama
 
 ## Currently Learning
 ![100 Days of Swift](https://img.shields.io/badge/100_Days_of_Swift-In_Progress-F54A2A?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-Advanced-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-In_Progress-000000?style=flat&logo=anthropic&logoColor=white)
- ![The Odin Project](https://img.shields.io/badge/The_Odin_Project-In_Progress-D24A30?style=flat&logo=theodinproject&logoColor=white)         
+![The Odin Project](https://img.shields.io/badge/The_Odin_Project-In_Progress-D24A30?style=flat&logo=theodinproject&logoColor=white)         
                                          
 ---
 
