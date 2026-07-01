@@ -1,4 +1,4 @@
-![Banner](https://geoclink.github.io/portfolio/assets/images/site/banner.png)
+![Banner](https://georgeclinkscalesdev.com/assets/images/site/banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=for-the-badge)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-iOS_%26_Full_Stack-green?style=for-the-badge)](https://linkedin.com/in/george-clinkscales)
