@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://geoclink.github.io/portfolio/assets/images/site/banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=geoClink&color=blue&style=for-the-badge)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-iOS_%26_Full_Stack-green?style=for-the-badge)](https://linkedin.com/in/george-clinkscales)
@@ -17,8 +17,8 @@
 ![geoClink's GitHub activity](https://ghchart.rshah.org/geoClink)
 
 MSU Apple Developer Academy graduate. Three shipped App Store
-apps, three merged open source PRs, and a full-stack ordering
-platform with live payments. Co-founder of CH Studios LLC,
+apps, three merged open source PRs, and a full business OS live
+across four clients verticals. Co-founder of CH Studios LLC,
 contracted by Tripsetta for iOS, Android, and web development.
 
 ---
@@ -45,10 +45,10 @@ team of 5 at the Apple Developer Academy.
 
 Architectural landmark discovery app for iOS. Users collect
 digital passport stamps as they explore buildings across cities.
-Offline-first with VoiceOver, high contrast, reduce motion,
-and haptic feedback. Localized into 8 languages. Includes
-an Apple Intelligence itinerary planner (iOS 26+) and a
-live currency converter.
+Offline-first with VoiceOver, high contrast, reduce motion, and
+haptic feedback. Localized into 8 languages. Includes an Apple
+Intelligence itinerary planner (iOS 26+) and a live currency
+converter.
 
 [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/stamped-a-city-passport/id6759680336)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoClink/Stamped-A-City-Passport)
@@ -60,54 +60,130 @@ live currency converter.
 
 5-in-1 survival game set on Belle Isle, Detroit. Custom SwiftUI
 joystick normalizes DragGesture input for cross-platform support.
-Game Center leaderboards and achievements. Built with a team
-of 5 at the Apple Developer Academy.
+Game Center leaderboards and achievements. Built with a team of
+5 at the Apple Developer Academy.
 
 [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaidenhenley/TakeFlight)
 
 ---
 
-## Projects
+## CH Studios — Small Business Suite
+
+### Knot — Small Business Operating System
+> Node.js · Express · Supabase · Stripe · SwiftUI · Resend · Twilio · MCP Server
+
+A full business OS competing with Toast, Square, and 7shifts —
+customer website, 17-module admin dashboard, iOS customer app,
+iOS POS, and an iOS employee scheduling app, all on one
+Node/Express API and one Supabase database. Multi-tenant from
+day one: every table carries a `tenant_id`, so onboarding a new
+business is one database row and a frontend deploy. Currently
+live across four client deployments.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://knot-landing-page.vercel.app)
+
+---
 
 ### The Bakery Co. — Full-Stack Ordering Platform
-> Node.js · Express · Supabase · Stripe · Swift · Vanilla JS · Twilio
+> Node.js · Express · Supabase · Stripe · Resend · Twilio · MCP Server · WebMCP
 
-End-to-end bakery ordering platform with a shared Node.js/Supabase
-backend powering both a web storefront and a native iOS app.
-Menu updates, inventory changes, and order data sync across
-both platforms in real time. Features pickup, delivery, and
-shipping with Stripe payments, tips, coupon codes, Crumb Rewards
-loyalty points, Supabase Auth, and SMS order notifications via
-Twilio. Admin dashboard with revenue charts, menu CMS, inventory
-management, and Supabase 2FA/TOTP.
-Lighthouse: 100 Accessibility · 100 SEO · 70ms click response.
+Five-surface ordering platform: customer website, admin CMS,
+iOS POS, iOS customer app, and an AI ordering layer.
+Webhook-first payment flow — Stripe confirms before the order
+is written to the database. Admin covers menu CMS, inventory,
+orders, revenue analytics, gift cards, subscriptions, loyalty,
+coupons, prep list, and staff management. MCP server lets
+customers order through Claude; WebMCP integration shipped the
+same week Google announced the W3C WebMCP standard at I/O 2026.
+Lighthouse: 100 Accessibility · 100 Best Practices · 100 SEO.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://the-bakery-co.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://the-bakery-co.vercel.app)
+
+---
+
+### The Wellness Co. — Booking Platform
+> Node.js · Express · Supabase · Stripe · Resend · Vercel
+
+Full-stack booking platform for acupuncture and energy healing
+practices. Webhook-driven — Stripe fires after payment clears,
+then writes the appointment and sends confirmation via Resend.
+UUID cancel tokens in confirmation emails enable self-serve
+cancellation with tiered refunds (full beyond 48h, 50% inside,
+none for no-shows), all executed server-side via the Stripe API.
+Supabase Auth with JWT validation on every admin route.
+Lighthouse: 100 Performance · 100 Accessibility · 100 SEO.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://the-wellness-co.vercel.app)
+
+---
+
+### The Sports Bar Co. — Reservations & Events Platform
+> HTML · CSS · JavaScript · Node.js · Express · Supabase · Resend · Vercel
+
+Reservations and events platform built as a direct alternative
+to Toast and OpenTable. Table booking writes to Supabase and
+sends confirmation emails via Resend. Events calendar pulls from
+the database — owner adds or cancels without touching code.
+Party and buyout inquiries route to the owner's inbox.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://the-sports-bar.vercel.app)
 
 ---
 
 ### The Salon Co. — Luxury Service Business Website
-> HTML · CSS · JavaScript · GitHub Pages
+> HTML · CSS · JavaScript · Node.js · Express · Supabase · Vercel
 
-Editorial website for a fictional luxury hair studio. Designed
-around a "slow craft" aesthetic with custom typography, layered
-photography, and smooth scroll interactions. Multi-page site
-with services, stylist profiles, gallery, booking flow,
-employment page, and privacy policy.
+Multi-page website for a luxury hair studio with services,
+stylist profiles, gallery, booking flow, employment page, and
+privacy policy. Scroll-based sticky header via
+IntersectionObserver, auto-rotating reviews carousel, CSS
+gallery filter system. No framework, no CMS.
+Lighthouse: 100 Performance · 100 Accessibility · 100 SEO.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://geoclink.github.io/the-salon-co/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=safari&logoColor=white)](https://the-salon-co.vercel.app)
 
 ---
 
-### Savings Calculator — Personal Finance iOS App
-> SwiftUI · Core ML · Swift Charts · WidgetKit · FRED API
+## Projects
 
-iOS app that benchmarks savings rates against live T-Bill
-yields and inflation. On-device Core ML model forecasts the
-next T-Bill rate using 14 economic indicators fetched in
-parallel from the Federal Reserve and Treasury APIs. MVVM
-architecture, VoiceOver accessibility, 30+ unit tests.
+### Tally — Time Tracker
+> Swift · SwiftUI · Catalyst · Apple Watch · React · Vite · Supabase · StoreKit · Stripe
+
+Cross-platform SaaS for freelancers and small teams — native
+iOS app (iPhone, Apple Watch, Mac via Catalyst) paired with a
+React web dashboard on a shared Supabase backend. Buying Pro on
+iOS unlocks the web: StoreKit and Stripe both write to the same
+`is_pro` flag. Sessions stored in SwiftData for offline use.
+Stripe webhooks, transactional email, and team invites run in
+Supabase Edge Functions (Deno) — no Node server required.
+$9.99 one-time vs. $10–20/month competitors.
+
+[![Web App](https://img.shields.io/badge/Web_App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tally-web-nu.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoClink/tally-web)
+
+---
+
+### Detroit Sports Chatbot — AI Sports Assistant
+> Python · Streamlit · Claude API · Groq · ESPN API
+
+AI chatbot with 15 ESPN tool integrations — live scores,
+standings, injuries, and schedules across all four major
+Detroit sports teams. Dual AI provider support (Claude + Groq)
+with a prompt evaluation pipeline. Deployed on Render.
+
+---
+
+### RateChecker — Personal Finance iOS App
+> SwiftUI · Core ML · Swift Charts · WidgetKit · SwiftData · FRED API
+
+iOS app that benchmarks savings rates against live T-Bill yields
+and inflation. On-device Core ML model forecasts the next T-Bill
+rate using 14 economic indicators fetched in parallel from the
+Federal Reserve and Treasury APIs. "My Money" dashboard shows
+how much you're leaving on the table at a low-rate bank.
+Background App Refresh with local notifications when rates shift.
+VoiceOver accessible, 30+ unit tests.
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoClink/Savings-Calculator)
 
@@ -147,17 +223,20 @@ Three merged pull requests across active open source projects:
 
 **Mobile**
 Swift · SwiftUI · UIKit · SpriteKit · SwiftData · Swift Charts ·
-WidgetKit · Core ML · App Intents · MapKit · Firebase · Combine
+WidgetKit · Core ML · App Intents · MapKit · Firebase · Combine ·
+Catalyst
 
-**Backend**
-Node.js · Express · FastAPI · Python · Supabase · HTTPX · asyncio
+**Web & Backend**
+Node.js · Express · FastAPI · Python · Supabase · HTML · CSS ·
+JavaScript · React · Vite · HTTPX · asyncio
 
-**ML / AI**
+**AI / ML**
 XGBoost · Core ML · Create ML · Tabular Regression ·
-Feature Engineering · Anthropic Claude API
+Feature Engineering · Anthropic Claude API · MCP · WebMCP
 
-**Payments & Infra**
-Stripe · Twilio · Render · GitHub Actions · TestFlight
+**Payments, Messaging & Infra**
+Stripe · StoreKit · Twilio · Resend · Render · Vercel ·
+GitHub Actions · TestFlight
 
 ---
 
