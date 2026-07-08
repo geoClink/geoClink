@@ -68,7 +68,7 @@ Game Center leaderboards and achievements. Built with a team of
 
 ---
 
-## CH Studios — Small Business Suite
+## Small Business Suite
 
 ### Knot — Small Business Operating System
 > Node.js · Express · Supabase · Stripe · SwiftUI · Resend · Twilio · MCP Server
