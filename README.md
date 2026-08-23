@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.sort-tek.com"><img src="assets/sort-tek-scroll.gif" alt="Sort-Tek Inspection Systems website scrolling" /></a>
+      <a href="https://www.sort-tek.com"><img src="https://georgeclinkscalesdev.com/assets/images/sort-tek/screenshot-home.png" alt="Sort-Tek Inspection Systems website" /></a>
       <br><sub><b>Sort-Tek Inspection Systems</b> — 100/100 Lighthouse</sub>
     </td>
     <td align="center" width="50%">
