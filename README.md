@@ -26,13 +26,16 @@
 
 <br>
 
-<img src="https://ghchart.rshah.org/1a56db/geoClink" alt="Contribution chart" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geoClink/geoClink/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/geoClink/geoClink/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🏢 &nbsp;Client Work
 
@@ -69,7 +72,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧩 &nbsp;Small Business Suite
 
@@ -107,7 +110,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📱 &nbsp;Shipped Apps
 
@@ -140,7 +143,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🤖 &nbsp;AI Engineering
 
@@ -148,7 +151,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 |---|---|---|---|
 | 🏀 | **Detroit Sports Chatbot** | AI agent with 15 live ESPN tools, dual-provider support (Claude + Groq), Whisper voice input, and an automated eval pipeline that improved response quality 28%. Deployed on Render. | [Live](https://detroitsportchatbot.onrender.com) · [Case Study](https://georgeclinkscalesdev.com/detroit-sports-chatbot.html) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎨 &nbsp;Brand & Web Design
 
@@ -156,7 +159,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 |---|---|---|---|
 | 🌿 | **Botanical Archive** | Brand landing page for a craft hemp beverage company, built in 5 days — Three.js interactive 3D model viewers, parallax animation, zine-style editorial design. | [Live](https://beverage-webpage.vercel.app) · [Case Study](https://georgeclinkscalesdev.com/beverage-co.html) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🔀 &nbsp;Open Source
 
@@ -166,7 +169,14 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 | [#37](https://github.com/HandmadeNetwork/hmn/pull/37) | **Handmade Network** | Refined project blog index logic for single-post states; audited typography utility classes |
 | [#4650](https://github.com/TandoorRecipes/recipes/pull/4650) | **Tandoor Recipes** | Added missing Back button to Ingredient Editor, matching Vue 3 navigation patterns |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ⚡ &nbsp;Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -202,7 +212,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a56db&height=3" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
