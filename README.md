@@ -150,6 +150,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 | &nbsp; | Project | What it does | Links |
 |---|---|---|---|
 | 🏀 | **Detroit Sports Chatbot** | AI agent with 15 live ESPN tools, dual-provider support (Claude + Groq), Whisper voice input, and an automated eval pipeline that improved response quality 28%. Deployed on Render. | [Live](https://detroitsportchatbot.onrender.com) · [Case Study](https://georgeclinkscalesdev.com/detroit-sports-chatbot.html) |
+| 🔊 | **Local LLM Speaker** | Private, offline smart speaker built from scratch — Raspberry Pi 5 running Whisper STT, Ollama + Qwen3, and Piper TTS, with MCP tools and a web dashboard. Custom ESP32-S3 PCB firmware streams wake-word audio over WebSocket. No cloud, no voice data leaving the network. | [GitHub](https://github.com/geoClink/local-llm-speaker) · [Firmware](https://github.com/geoClink/local-llm-speaker-firmware) |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
