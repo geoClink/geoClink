@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](https://georgeclinkscalesdev.com/assets/images/site/banner.png)](https://georgeclinkscalesdev.com)
+[![George Clinkscales Jr. — iOS & visionOS Engineer](assets/readme/banner.png)](https://georgeclinkscalesdev.com)
 
 <br>
 
@@ -20,10 +20,6 @@
 <img src="https://skillicons.dev/icons?i=swift" height="44" title="Swift" alt="Swift" /> <img src="https://skillicons.dev/icons?i=react" height="44" title="React" alt="React" /> <img src="https://skillicons.dev/icons?i=nodejs" height="44" title="Node.js" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=py" height="44" title="Python" alt="Python" /> <img src="https://skillicons.dev/icons?i=fastapi" height="44" title="FastAPI" alt="FastAPI" /> <img src="https://skillicons.dev/icons?i=supabase" height="44" title="Supabase" alt="Supabase" /> <img src="https://skillicons.dev/icons?i=js" height="44" title="JavaScript" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" height="44" title="HTML" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" height="44" title="CSS" alt="CSS" />
 
 <br>
-<br>
-
-<img src="https://streak-stats.demolab.com?user=geoClink&theme=transparent&hide_border=true&stroke=1a56db&ring=1a56db&fire=1a56db&currStreakNum=111111&sideNums=111111&currStreakLabel=555555&sideLabels=555555&dates=888888" height="160" alt="streak" />
-
 <br>
 
 <picture>
@@ -51,6 +47,16 @@
 
 > **Five apps live on the App Store.** Squishy Butter is also on Google Play and the web.
 
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><a href="https://apps.apple.com/us/app/tally-time-tracker/id6775275483"><img src="assets/readme/icon-tally.png" width="88" alt="Tally app icon" /></a><br><b>Tally</b><br><a href="https://apps.apple.com/us/app/tally-time-tracker/id6775275483"><img src="assets/readme/app-store-badge.svg" height="30" alt="Download Tally on the App Store" /></a></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/us/app/coastcast/id6760917476"><img src="assets/readme/icon-coastcast.png" width="88" alt="CoastCast app icon" /></a><br><b>CoastCast</b><br><a href="https://apps.apple.com/us/app/coastcast/id6760917476"><img src="assets/readme/app-store-badge.svg" height="30" alt="Download CoastCast on the App Store" /></a></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/us/app/squishy-butter/id6801368552"><img src="assets/readme/icon-squishy.png" width="88" alt="Squishy Butter app icon" /></a><br><b>Squishy Butter</b><br><a href="https://apps.apple.com/us/app/squishy-butter/id6801368552"><img src="assets/readme/app-store-badge.svg" height="30" alt="Download Squishy Butter on the App Store" /></a></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/us/app/stamped-a-city-passport/id6759680336"><img src="assets/readme/icon-stamped.png" width="88" alt="Stamped! app icon" /></a><br><b>Stamped!</b><br><a href="https://apps.apple.com/us/app/stamped-a-city-passport/id6759680336"><img src="assets/readme/app-store-badge.svg" height="30" alt="Download Stamped! on the App Store" /></a></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964"><img src="assets/readme/icon-takeflight.png" width="88" alt="TakeFlight app icon" /></a><br><b>TakeFlight</b><br><a href="https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964"><img src="assets/readme/app-store-badge.svg" height="30" alt="Download TakeFlight on the App Store" /></a></td>
+  </tr>
+</table>
+
 | &nbsp; | App | Stack | Links |
 |---|---|---|---|
 | ⏱ | **Tally — Time Tracker** · *Cross-platform SaaS — iPhone, Watch, Mac via Catalyst, React web dashboard, Android in closed testing. StoreKit + Stripe write the same `is_pro` flag. $9.99 one-time.* | SwiftUI · Catalyst · React · Supabase · StoreKit · Stripe | [App Store](https://apps.apple.com/us/app/tally-time-tracker/id6775275483) · [Web](https://tallytimetracker.com) · [GitHub](https://github.com/geoClink/tally-web) |
@@ -72,7 +78,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://squishybutter.app"><img src="https://georgeclinkscalesdev.com/assets/images/squishy-butter/landing-page.webp" width="100%" alt="Squishy Butter landing page" /></a>
+      <a href="https://squishybutter.app"><img src="https://georgeclinkscalesdev.com/assets/images/squishy-butter/landing-page.webp" width="60%" alt="Squishy Butter landing page" /></a>
       <br><sub><b>Squishy Butter</b> — custom GLSL soft-body physics, live at squishybutter.app</sub>
     </td>
   </tr>
@@ -86,11 +92,11 @@
 
 | &nbsp; | Client | What I built | Links |
 |---|---|---|---|
-| 🌲 | **White Bear Harmonics** | Michigan energy healing and acupuncture practice — live and taking real bookings and payments on Small Business Suite. Onboarded with zero code changes. | [Live Site](https://whitebearharmonics.com) · [Case Study](https://georgeclinkscalesdev.com/wellness-co.html) |
-| 🏔 | **Crystal Lake Resort** | Michigan lakefront resort with motel rooms and weekly cottages — direct bookings, Stripe checkout, and gift cards on Small Business Suite. | [Live Site](https://crystallakeresortmi.com) · [Case Study](https://georgeclinkscalesdev.com/inn-co.html) |
-| ✈️ | **Tripsetta** | Cross-platform engineer (part-time contract) — maintaining and shipping feature updates across the travel platform's iOS, Android, and web apps. | [Site](https://tripsetta.com) · [Case Study](https://georgeclinkscalesdev.com/tripsetta.html) |
-| 🔩 | **Sort-Tek Inspection Systems** | Bespoke marketing site for a Troy, MI ISO 9001:2015-certified fastener inspection company. 100/100 Lighthouse on mobile and desktop. | [Live Site](https://www.sort-tek.com) · [Case Study](https://georgeclinkscalesdev.com/sort-tek.html) |
-| 🖨 | **Emmalee Alexander · Print Design** | Portfolio site for a Frankfort, MI print designer — filterable work gallery, pricing, reviews, and a no-code admin panel. Vanilla HTML/CSS/JS. | [Case Study](https://georgeclinkscalesdev.com/emmalee-print-design.html) |
+| <img src="assets/readme/logo-whitebear.png" width="36" alt="White Bear Harmonics logo" /> | **White Bear Harmonics** | Michigan energy healing and acupuncture practice — live and taking real bookings and payments on Small Business Suite. Onboarded with zero code changes. | [Live Site](https://whitebearharmonics.com) · [Case Study](https://georgeclinkscalesdev.com/wellness-co.html) |
+| <img src="assets/readme/logo-crystallake.png" width="36" alt="Crystal Lake Resort logo" /> | **Crystal Lake Resort** | Michigan lakefront resort with motel rooms and weekly cottages — direct bookings, Stripe checkout, and gift cards on Small Business Suite. | [Live Site](https://crystallakeresortmi.com) · [Case Study](https://georgeclinkscalesdev.com/inn-co.html) |
+| <img src="assets/readme/logo-tripsetta.png" width="36" alt="Tripsetta logo" /> | **Tripsetta** | Cross-platform engineer (part-time contract) — maintaining and shipping feature updates across the travel platform's iOS, Android, and web apps. | [Site](https://tripsetta.com) · [Case Study](https://georgeclinkscalesdev.com/tripsetta.html) |
+| <img src="assets/readme/logo-sorttek.png" width="36" alt="Sort-Tek logo" /> | **Sort-Tek Inspection Systems** | Bespoke marketing site for a Troy, MI ISO 9001:2015-certified fastener inspection company. 100/100 Lighthouse on mobile and desktop. | [Live Site](https://www.sort-tek.com) · [Case Study](https://georgeclinkscalesdev.com/sort-tek.html) |
+| <img src="assets/readme/logo-emmalee.png" width="36" alt="Emmalee Alexander logo" /> | **Emmalee Alexander · Print Design** | Portfolio site for a Frankfort, MI print designer — filterable work gallery, pricing, reviews, and a no-code admin panel. Vanilla HTML/CSS/JS. | [Case Study](https://georgeclinkscalesdev.com/emmalee-print-design.html) |
 
 <table width="100%">
   <tr>
