@@ -4,11 +4,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Engineer+%C2%B7+Detroit%2C+MI;Real+businesses+live+on+my+platform;Four+shipped+App+Store+apps;MSU+Apple+Developer+Academy+%E2%80%94+Year+2)](https://georgeclinkscalesdev.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=iOS+%26+visionOS+Engineer+%C2%B7+Detroit%2C+MI;Five+apps+on+the+App+Store;Building+for+Apple+Vision+Pro;MSU+Apple+Developer+Academy+%E2%80%94+Year+2)](https://georgeclinkscalesdev.com)
 
 <br>
 
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Web%20%26%20Full%20Stack-2ea44f?style=for-the-badge)](https://linkedin.com/in/george-clinkscales)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-iOS%20%26%20Full%20Stack-2ea44f?style=for-the-badge)](https://linkedin.com/in/george-clinkscales)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-georgeclinkscalesdev.com-1a56db?style=for-the-badge&logo=safari&logoColor=white)](https://georgeclinkscalesdev.com)
 &nbsp;
@@ -34,6 +34,49 @@
 </div>
 
 <br>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🥽 &nbsp;Right Now
+
+| &nbsp; | Role | What I'm doing |
+|---|---|---|
+| 🥽 | **visionOS Developer** · MSU Apple Developer Academy, Renaissance Program | Building a Vision Pro healthcare app for a real clinical client with a team of 5, in visionOS, SwiftUI, and RealityKit. *Details confidential.* |
+| 🔩 | **Software Development Intern** · Sort-Tek Inspection Systems | Co-building an iPad inspection app for fastener sorting with on-device machine learning. The project is now an [MSU CSE senior capstone](https://capstone.cse.msu.edu/2026-08/projects/sort-tek/); I helped write the curriculum and advise the 5-student team. |
+| 🏗 | **Co-Founder** · CH Studios LLC | Detroit software studio with [Jaiden Henley](https://github.com/jaidenhenley), shipping iOS, Android, and web for [Tripsetta](https://tripsetta.com). |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📱 &nbsp;Shipped Apps
+
+> **Five apps live on the App Store.** Squishy Butter is also on Google Play and the web.
+
+| &nbsp; | App | Stack | Links |
+|---|---|---|---|
+| ⏱ | **Tally — Time Tracker** · *Cross-platform SaaS — iPhone, Watch, Mac via Catalyst, React web dashboard, Android in closed testing. StoreKit + Stripe write the same `is_pro` flag. $9.99 one-time.* | SwiftUI · Catalyst · React · Supabase · StoreKit · Stripe | [App Store](https://apps.apple.com/us/app/tally-time-tracker/id6775275483) · [Web](https://tallytimetracker.com) · [GitHub](https://github.com/geoClink/tally-web) |
+| 🏖 | **CoastCast — Beach Conditions** · *Real-time conditions for 54 Michigan beaches. XGBoost Crowd Meter on-device via CoreML. WidgetKit, Live Activities, Siri Shortcuts.* | SwiftUI · FastAPI · CoreML · XGBoost · WidgetKit | [App Store](https://apps.apple.com/us/app/coastcast/id6760917476) · [GitHub](https://github.com/jaidenhenley/MichiganAPIWeather) |
+| 🏛 | **Stamped! — City Passport** · *Collect digital passport stamps at architectural landmarks. Offline-first, VoiceOver, 8 languages, Apple Intelligence itinerary planner (iOS 26+).* | SwiftUI · UserDefaults · App Intents | [App Store](https://apps.apple.com/us/app/stamped-a-city-passport/id6759680336) · [GitHub](https://github.com/geoClink/Stamped-A-City-Passport) |
+| 🐦 | **TakeFlight — Bird Survival Game** · *5-in-1 survival game set on Belle Isle, Detroit. Custom SwiftUI joystick, Game Center leaderboards. Team of 5 at the Academy.* | SwiftUI · SpriteKit · SwiftData · Game Center | [App Store](https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964) · [GitHub](https://github.com/jaidenhenley/TakeFlight) |
+| 🧈 | **Squishy Butter** · *A stick of butter you squish with your finger — real-time soft-body deformation in a custom GLSL vertex shader, 160+ collectible skins. One codebase shipped to iOS, Android, and the web, with a Supabase backend for purchases, push notifications, and an admin dashboard.* | GLSL · Three.js · Capacitor · Supabase · Stripe · RevenueCat | [App Store](https://apps.apple.com/us/app/squishy-butter/id6801368552) · [Google Play](https://play.google.com/store/apps/details?id=com.squishybutter.app) · [Web](https://squishybutter.app) · [Case Study](https://georgeclinkscalesdev.com/squishy-butter.html) |
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/tally-time-tracker/id6775275483"><img src="https://georgeclinkscalesdev.com/assets/images/tallyios/tally_mockup_hand.jpg" width="88%" alt="Tally Time Tracker on iPhone" /></a>
+      <br><sub><b>Tally</b> — live on the App Store</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/us/app/coastcast/id6760917476"><img src="https://georgeclinkscalesdev.com/assets/images/coastcast/coastcast_mockup_hand.jpg" width="88%" alt="CoastCast on iPhone at a Lake Michigan beach" /></a>
+      <br><sub><b>CoastCast</b> — live on the App Store</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://squishybutter.app"><img src="https://georgeclinkscalesdev.com/assets/images/squishy-butter/landing-page.webp" width="100%" alt="Squishy Butter landing page" /></a>
+      <br><sub><b>Squishy Butter</b> — custom GLSL soft-body physics, live at squishybutter.app</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -82,7 +125,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 
 [![Platform](https://img.shields.io/badge/webplatform--api.vercel.app-000?style=flat-square&logo=safari&logoColor=white)](https://webplatform-api.vercel.app)
 &nbsp;
-[![Case Study](https://img.shields.io/badge/Case%20Study-1a56db?style=flat-square&logo=safari&logoColor=white)](https://georgeclinkscalesdev.com/small-business-suite.html)
+[![Case Study](https://img.shields.io/badge/Case%20Study-1a56db?style=flat-square&logo=safari&logoColor=white)](https://georgeclinkscalesdev.com/case-studies.html)
 
 | &nbsp; | Project | What it does | Links |
 |---|---|---|---|
@@ -106,39 +149,6 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
     <td align="center" width="33%">
       <a href="https://the-salon-co.vercel.app"><img src="https://georgeclinkscalesdev.com/assets/images/thesalonco/screenshot-home.png" alt="The Salon Co. homepage" /></a>
       <br><sub><b>The Salon Co.</b></sub>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📱 &nbsp;Shipped Apps
-
-> **Four apps live on the App Store, one in beta.**
-
-| &nbsp; | App | Stack | Links |
-|---|---|---|---|
-| ⏱ | **Tally — Time Tracker** · *Cross-platform SaaS — iPhone, Watch, Mac via Catalyst, React web dashboard, Android in closed testing. StoreKit + Stripe write the same `is_pro` flag. $9.99 one-time.* | SwiftUI · Catalyst · React · Supabase · StoreKit · Stripe | [App Store](https://apps.apple.com/us/app/tally-time-tracker/id6775275483) · [Web](https://tallytimetracker.com) · [GitHub](https://github.com/geoClink/tally-web) |
-| 🏖 | **CoastCast — Beach Conditions** · *Real-time conditions for 54 Michigan beaches. XGBoost Crowd Meter on-device via CoreML. WidgetKit, Live Activities, Siri Shortcuts.* | SwiftUI · FastAPI · CoreML · XGBoost · WidgetKit | [App Store](https://apps.apple.com/us/app/coastcast/id6760917476) · [GitHub](https://github.com/jaidenhenley/MichiganAPIWeather) |
-| 🏛 | **Stamped! — City Passport** · *Collect digital passport stamps at architectural landmarks. Offline-first, VoiceOver, 8 languages, Apple Intelligence itinerary planner (iOS 26+).* | SwiftUI · UserDefaults · App Intents | [App Store](https://apps.apple.com/us/app/stamped-a-city-passport/id6759680336) · [GitHub](https://github.com/geoClink/Stamped-A-City-Passport) |
-| 🐦 | **TakeFlight — Bird Survival Game** · *5-in-1 survival game set on Belle Isle, Detroit. Custom SwiftUI joystick, Game Center leaderboards. Team of 5 at the Academy.* | SwiftUI · SpriteKit · SwiftData · Game Center | [App Store](https://apps.apple.com/us/app/takeflight-a-bird-life/id6758803964) · [GitHub](https://github.com/jaidenhenley/TakeFlight) |
-| 🧈 | **Squishy Butter** · *A stick of butter you squish with your finger — real-time soft-body deformation in a custom GLSL vertex shader, 140+ collectible skins. Live on the web, TestFlight for iOS, closed testing on Android.* | GLSL · WebGL · JavaScript | [Play](https://squishybutter.app) · [Case Study](https://georgeclinkscalesdev.com/squishy-butter.html) |
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/us/app/tally-time-tracker/id6775275483"><img src="https://georgeclinkscalesdev.com/assets/images/tallyios/tally_mockup_hand.jpg" width="88%" alt="Tally Time Tracker on iPhone" /></a>
-      <br><sub><b>Tally</b> — live on the App Store</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/us/app/coastcast/id6760917476"><img src="https://georgeclinkscalesdev.com/assets/images/coastcast/coastcast_mockup_hand.jpg" width="88%" alt="CoastCast on iPhone at a Lake Michigan beach" /></a>
-      <br><sub><b>CoastCast</b> — live on the App Store</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://squishybutter.app"><img src="https://georgeclinkscalesdev.com/assets/images/squishy-butter/landing-page.png" width="100%" alt="Squishy Butter landing page" /></a>
-      <br><sub><b>Squishy Butter</b> — custom GLSL soft-body physics, live at squishybutter.app</sub>
     </td>
   </tr>
 </table>
@@ -221,11 +231,11 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 &nbsp;·&nbsp;
 **Cross-Platform Engineer · [Tripsetta](https://tripsetta.com)** *(part-time contract)*
 &nbsp;·&nbsp;
-**MSU Apple Developer Academy · Year 2 · Aug 2026 – May 2027** *(25 of 250 selected from year one)*
+**MSU Apple Developer Academy · Year 2 · Sep 2026 – May 2027** *(25 of 240 selected from year one)*
 
 <br>
 
-**Open to full-time web and full-stack roles in Detroit or remote**
+**Open to iOS and full-stack roles in Detroit or remote**
 
 <br>
 
