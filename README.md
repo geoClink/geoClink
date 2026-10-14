@@ -167,6 +167,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 |---|---|---|---|
 | 🏀 | **Detroit Sports Chatbot** | AI agent with 15 live ESPN tools, dual-provider support (Claude + Groq), Whisper voice input, and an automated eval pipeline that improved response quality 28%. Deployed on Render. | [Live](https://detroitsportchatbot.onrender.com) · [Case Study](https://georgeclinkscalesdev.com/detroit-sports-chatbot.html) |
 | 🔊 | **Local LLM Speaker** | Private, offline smart speaker built from scratch — Raspberry Pi 5 running Whisper STT, Ollama + Qwen3, and Piper TTS, with MCP tools and a web dashboard. Custom ESP32-S3 PCB firmware streams wake-word audio over WebSocket. No cloud, no voice data leaving the network. | [GitHub](https://github.com/geoClink/local-llm-speaker) · [Firmware](https://github.com/geoClink/local-llm-speaker-firmware) |
+| 🗂 | **FileMaker + Ollama** | Ask your FileMaker data questions in plain English using a free local AI model (Ollama). | [GitHub](https://github.com/geoClink/filemaker-ollama-ask) |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -207,6 +208,19 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 
 <img src="https://skillicons.dev/icons?i=swift" height="44" title="Swift" alt="Swift" /> <img src="https://skillicons.dev/icons?i=apple" height="44" title="Apple platforms" alt="Apple platforms" /> <img src="https://skillicons.dev/icons?i=firebase" height="44" title="Firebase" alt="Firebase" />
 
+**Claris FileMaker**
+
+[![Claris Certified FileMaker Pro Expert](https://img.shields.io/badge/Claris%20Certified-FileMaker%20Pro%20Expert-1a56db?style=flat-square)](https://www.credly.com/badges/0335bc21-1e06-47c0-88c2-6cd334fc1e97/public_url)
+[![AI Fundamentals I](https://img.shields.io/badge/Claris%20AI%20Fundamentals%20I-Semantic%20Search-1a56db?style=flat-square)](https://www.credly.com/badges/5740957b-0436-4b9f-a9d2-6306e6cef282/public_url)
+[![AI Fundamentals II](https://img.shields.io/badge/Claris%20AI%20Fundamentals%20II-Using%20LLMs-1a56db?style=flat-square)](https://www.credly.com/badges/c66657dd-f62c-4847-8f62-29f171f4076b/public_url)
+
+![FileMaker Pro](https://img.shields.io/badge/FileMaker%20Pro-000?style=flat-square)
+![Data API](https://img.shields.io/badge/Data%20API-000?style=flat-square)
+![ExecuteSQL](https://img.shields.io/badge/ExecuteSQL-000?style=flat-square)
+![Scripting & Calculations](https://img.shields.io/badge/Scripting%20%26%20Calculations-000?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-000?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-000?style=flat-square)
+
 **Tools & Infra**
 
 <img src="https://skillicons.dev/icons?i=git" height="44" title="Git" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="44" title="GitHub" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=githubactions" height="44" title="GitHub Actions" alt="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=docker" height="44" title="Docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=vscode" height="44" title="VS Code" alt="VS Code" /> <img src="https://skillicons.dev/icons?i=threejs" height="44" title="Three.js" alt="Three.js" /> <img src="https://skillicons.dev/icons?i=vercel" height="44" title="Vercel" alt="Vercel" />
@@ -241,7 +255,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 
 <br>
 
-**Open to iOS and full-stack roles in Detroit or remote**
+**Open to iOS, full-stack, and Claris FileMaker roles in Detroit or remote**
 
 <br>
 
