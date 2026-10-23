@@ -192,6 +192,7 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Stamped! 2.3](https://github.com/geoClink/Stamped-A-City-Passport/releases/tag/v2.3) in [geoClink/Stamped-A-City-Passport](https://github.com/geoClink/Stamped-A-City-Passport)
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt="" />
