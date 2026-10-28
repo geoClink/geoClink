@@ -39,7 +39,6 @@
 |---|---|---|
 | 🥽 | **visionOS Developer** · MSU Apple Developer Academy, Renaissance Program | Building a Vision Pro healthcare app for a real clinical client with a team of 5, in visionOS, SwiftUI, and RealityKit. *Details confidential.* |
 | 🔩 | **Software Development Intern** · Sort-Tek Inspection Systems | Co-building an iPad inspection app for fastener sorting with on-device machine learning. The project is now an [MSU CSE senior capstone](https://capstone.cse.msu.edu/2026-08/projects/sort-tek/); I helped write the curriculum and advise the 5-student team. |
-| 🏗 | **Co-Founder** · CH Studios LLC | Detroit software studio with [Jaiden Henley](https://github.com/jaidenhenley), shipping iOS, Android, and web for [Tripsetta](https://tripsetta.com). |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -248,8 +247,6 @@ A multi-tenant SaaS platform with booking, payments, staff scheduling, loyalty, 
 
 <div align="center">
 
-**Co-Founder · CH Studios** *(Detroit software studio — mobile apps & full-stack products)*
-&nbsp;·&nbsp;
 **Cross-Platform Engineer · [Tripsetta](https://tripsetta.com)** *(part-time contract)*
 &nbsp;·&nbsp;
 **MSU Apple Developer Academy · Year 2 · Sep 2026 – May 2027** *(25 of 240 selected from year one)*
